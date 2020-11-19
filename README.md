@@ -39,3 +39,4 @@ PUT /api/clientes/{Id}
 
 DELETE /api/clientes/{Id}
 You can test them using postman or any other rest client.
+
